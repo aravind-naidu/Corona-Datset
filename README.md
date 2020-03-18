@@ -1,7 +1,7 @@
 ### Working on Corona-Datset 
 >This is a small experimental code to play around with few Corona Datasets and learn while practicing.
 I have made this repository to help beginners learn and understand the basics more.
-While I was a beginner many such people's Githubs, Stackoverflow, Medium blogs and websites healped me to learn.
+While I was a beginner many such people's Githubs, Stackoverflow, Medium blogs and websites helped me to learn.
 This is my way of giving back when I can.
 >Happy Learning!!!
 
